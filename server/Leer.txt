@@ -1,0 +1,5 @@
+Tutorial 
+--REVISAR FUNCIONAL CRUD CON IMAGEN https://www.youtube.com/watch?v=-qdG_P85fFQ&ab_channel=DCodeMania
+
+Crear base de datos en mongo mevn_full_stack/posts
+Instalar axios y vue-axios --save
